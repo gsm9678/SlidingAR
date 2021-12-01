@@ -1,0 +1,4 @@
+// Readme :(클론) 뒤에 수치만 바꿀것! 
+COM : COM4 
+BaudRate : 9600 
+CalcuData : 0.004190476
